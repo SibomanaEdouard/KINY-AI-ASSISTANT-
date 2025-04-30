@@ -8,3 +8,6 @@ __pycache__/
 kinya-env/
 KinyaTTS/
 transcription_log.csv
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json

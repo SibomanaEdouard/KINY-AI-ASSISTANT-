@@ -30,13 +30,21 @@ Demo Screenshot
 git clone https://github.com/SibomanaEdouard/KINY-AI-ASSISTANT-.git
 cd KINY-AI-ASSISTANT-
 ```
-2. Install dependencies:
+2. Create venv 
+```bash
+python -m venv kinya-venv
+```
+Then activate it 
+
+
+
+3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Download models (automatic on first run):
+4. Download models (automatic on first run):
 
 ```bash
 ASR: mbazaNLP/Kinyarwanda_nemo_stt_conformer_model
