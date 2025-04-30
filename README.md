@@ -27,8 +27,8 @@ Demo Screenshot
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Chloe-sys/kinyarwanda_Voice_AI.git
-cd kinyarwanda_Voice_AI
+git clone https://github.com/SibomanaEdouard/KINY-AI-ASSISTANT-.git
+cd KINY-AI-ASSISTANT-
 ```
 2. Install dependencies:
 
@@ -110,3 +110,10 @@ Contributions are welcome! Please open an issue or pull request for:
 - Rwanda MIT Research Team – for open-sourcing KinyaTTS
 - Hugging Face – for hosting and distributing models
 - NVIDIA – for the NeMo framework
+
+### 🙏 Developers && Maintainers
+- SIBOMANA Edouard
+- https://github.com/SibomanaEdouard
+- https://www.linkedin.com/in/sibomanaedouard/
+
+
