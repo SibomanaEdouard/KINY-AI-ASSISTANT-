@@ -106,11 +106,6 @@ Contributions are welcome! Please open an issue or pull request for:
 - Audio Processing: https://github.com/jiaaro/pydub, https://pytorch.org/audio/stable/index.html
 - STT model: https://github.com/agent87/RW-DEEPSPEECH-API
 
-### 🙏 Acknowledgements
-- Rwanda MIT Research Team – for open-sourcing KinyaTTS
-- Hugging Face – for hosting and distributing models
-- NVIDIA – for the NeMo framework
-
 ### 🙏 Developers && Maintainers
 - SIBOMANA Edouard
 - https://github.com/SibomanaEdouard

@@ -1,5 +1,3 @@
-# assistant.py
-
 from stt_module import transcribe_audio
 from tts_module import synthesize_tts
 from nlp_module import get_response

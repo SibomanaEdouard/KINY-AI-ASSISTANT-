@@ -1,5 +1,3 @@
-# stt_module.py
-
 import os
 import nemo.collections.asr as nemo_asr
 from huggingface_hub import login 

@@ -1,5 +1,3 @@
-# nlp_module.py
-
 import random
 import string
 from itertools import combinations

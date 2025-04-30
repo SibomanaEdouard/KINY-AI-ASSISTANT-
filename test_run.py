@@ -1,5 +1,3 @@
-# test_run.py
-
 import os
 from assistant import run_assistant
 from tts_module import setup_kinya_tts
